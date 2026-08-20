@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>Computer Science Undergraduate @ Asia Pacific University of Technology & Innovation (APU), Malaysia</b>
+    <b>Computer Science and Data Analytics Undergraduate @ Asia Pacific University of Technology & Innovation (APU), Malaysia</b>
   </p>
 
   <!-- Quick Badges -->
@@ -147,17 +147,13 @@ I love building practical, user-centered software solutions—ranging from data-
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audri-apu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Audri's GitHub Stats"/>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=audri-apu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Audri's GitHub Stats"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audri-apu&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages"/>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=audri-apu&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages"/>
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audri-apu&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -185,5 +181,5 @@ I am always excited to discuss software engineering, machine learning projects, 
 <br/>
 
 <div align="center">
-  <sub><i>Designed with ❤️ for Audri's GitHub Profile • APU Malaysia CS Student</i></sub>
+  <sub><i>Audri's GitHub Profile • APU Malaysia CS Student</i></sub>
 </div>
